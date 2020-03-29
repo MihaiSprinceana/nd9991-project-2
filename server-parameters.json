@@ -1,0 +1,18 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "CloudDevOpsNd"
+	},
+	{
+		"ParameterKey": "InstanceType",
+		"ParameterValue": "t2.medium"
+	},
+	{
+		"ParameterKey": "CloudDevOpsS3Bucket",
+		"ParameterValue": "cloud-devops-nd-project-2"
+	},
+	{
+		"ParameterKey": "OperatorEmail",
+		"ParameterValue": "test@test.com"
+	}
+]
